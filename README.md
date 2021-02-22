@@ -6,6 +6,7 @@
   [Just copy and paste it on termux or any terminal ]
   
   • Step 1 = 'pkg i wget -y && wget https://raw.githubusercontent.com/Unos-Company/Alpine-3.13/main/alp.sh && bash alp.sh
+
   • Step 2 =  To start alpine type 'unos-alpine-3.13'
 
 # Alpine apps to install 
